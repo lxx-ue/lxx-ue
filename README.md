@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lxx-ue
 
-- 📫 How to reach me idk
+- 📫 How to reach me: elafuruzanov@gmail.com
 
 <!---
 lxx-ue/lxx-ue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
